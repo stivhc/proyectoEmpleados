@@ -12,5 +12,5 @@ def mostrar_empleados(request):
     ]
     context = {"empleados": empleados}
     return render(
-        request, "empleados/mostrar_empleados.html", context
+        request, "empleados/empleados.html", context
     )  # Create your views here.
