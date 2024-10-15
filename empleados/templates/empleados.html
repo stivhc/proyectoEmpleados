@@ -8,7 +8,9 @@
   <body>
     <h1>Lista de Empleados</h1>
     <ul>
-      <li>{{empleados}}</li>
+      {% for nombre in empleados %}
+      <li>{{ nombre }}</li>
+      {% endfor %}
     </ul>
   </body>
 </html>
