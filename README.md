@@ -1,4 +1,4 @@
-#Proyecto Django - Mostrando Contenido Dinámico
+# Proyecto Django - Mostrando Contenido Dinámico
 
 Este proyecto es una aplicación simple en Django diseñada para mostrar una lista de nombres de empleados en una página web utilizando contenido dinámico.
 
